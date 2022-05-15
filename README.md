@@ -12,9 +12,9 @@ Bugs:
 
 Other things:
 - this might not work on your device if your device's touch screen hardware or display identifiers are different
-- you will need to install my other magisk module to get the System UI on the cli display (link soon)
+- you will need to install this magisk module to display the system on the cli display: https://github.com/BigZucc41/Razr5G-Foldable-Device-Fixes
 - this is not a part of the Foldable Device Fixes module because I'm going to be releasing other ways of getting a UI on the second display that are similar to the stock firmware
 
-Credits:
+Sources:
 - AOSP official documentation (https://source.android.com/devices/tech/display/multi_display/input-routing)
-- topjohnwu (magisk)
+- Magisk documentation (https://github.com/BigZucc41/Razr5G-Foldable-Device-Fixes)
