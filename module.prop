@@ -1,0 +1,6 @@
+id=razr-synaptics-associations
+name=Razr5G Synaptics Touchscreen Device Associations
+version=v1
+versionCode=1
+author=bigzucc41
+description=Maps the Synaptics touchscreen device to display port 130
